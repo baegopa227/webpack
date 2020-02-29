@@ -1,0 +1,6 @@
+/node_modules
+
+#개발출관련 환경 파일
+.idea
+
+package-lock.json
